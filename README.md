@@ -1,0 +1,1 @@
+An Automated Attendance System, based on dlib(face_recognition) and OpenCV, with sqlalchemy to build and populate the database.
